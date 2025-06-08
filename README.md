@@ -1,5 +1,5 @@
 ### Semua dalam Satu Alat Peretasan Untuk Peretas🥇
-####Instal Kali Linux di Windows 10 Tanpa VirtualBox panduan pemasangan dm saya di instagram nhaol_putraor use Docker
+####Instal Kali Linux di Windows 10 Tanpa VirtualBox panduan pemasangan dm saya di instagram nhaol_putra or use Docker
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
