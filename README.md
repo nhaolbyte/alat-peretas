@@ -1,4 +1,5 @@
-### All in One Hacking tool For Hackers🥇
+### Semua dalam Satu Alat Peretasan Untuk Peretas🥇
+####Instal Kali Linux di Windows 10 Tanpa VirtualBox panduan pemasangan dm saya di instagram nhaol_putraor use Docker
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
@@ -8,8 +9,6 @@
 ![](https://img.shields.io/github/last-commit/Z4nzu/hackingtool)
 [![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
-
-#### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) or use Docker
 
 ## Update Available V1.2.0 🚀 
 - [✔] Installation Bug Fixed
@@ -54,10 +53,10 @@
     - [Mix tools](#mix-tools)
 
 
-### Anonymously Hiding Tools
+### Menyembunyikan Alat Secara Anonim
 - [Anonmously Surf](https://github.com/Und3rf10w/kali-anonsurf)
 - [Multitor](https://github.com/trimstray/multitor)
-### Information gathering tools
+### Alat pengumpulan informasi
 - [Network Map (nmap)](https://github.com/nmap/nmap)
 - [Dracnmap](https://github.com/Screetsec/Dracnmap)
 - Port scanning
@@ -74,12 +73,12 @@
 - [Port Scanner - rang3r (Python 2.7)](https://github.com/floriankunushevci/rang3r)
 - [Port Scanner - Ranger Reloaded (Python 3+)](https://github.com/joeyagreco/ranger-reloaded)
 - [Breacher](https://github.com/s0md3v/Breacher)
-### Wordlist Generator
+### Pembuat Daftar Kata
 - [Cupp](https://github.com/Mebus/cupp.git)
 - [WordlistCreator](https://github.com/Z4nzu/wlcreator)
 - [Goblin WordGenerator](https://github.com/UndeadSec/GoblinWordGenerator.git)
 - [Password list (1.4 Billion Clear Text Password)](https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got)
-### Wireless attack tools
+### Alat serangan nirkabel/bobol wifi
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/wifipumpkin3)
 - [pixiewps](https://github.com/wiire/pixiewps)
 - [Bluetooth Honeypot GUI Framework](https://github.com/andrewmichaelsmith/bluepot)
@@ -89,7 +88,7 @@
 - [EvilTwin](https://github.com/Z4nzu/fakeap)
 - [Fastssh](https://github.com/Z4nzu/fastssh)
 - Howmanypeople
-### SQL Injection Tools
+### Alat Injeksi SQL
 - [Sqlmap tool](https://github.com/sqlmapproject/sqlmap)
 - [NoSqlMap](https://github.com/codingo/NoSQLMap)
 - [Damn Small SQLi Scanner](https://github.com/stamparm/DSSS)
@@ -97,7 +96,7 @@
 - [Blisqy - Exploit Time-based blind-SQL injection](https://github.com/JohnTroony/Blisqy)
 - [Leviathan - Wide Range Mass Audit Toolkit](https://github.com/leviathan-framework/leviathan)
 - [SQLScan](https://github.com/Cvar1984/sqlscan)
-### Phishing attack tools
+### Alat serangan phishing
 - [Setoolkit](https://github.com/trustedsec/social-engineer-toolkit)
 - [SocialFish](https://github.com/UndeadSec/SocialFish)
 - [HiddenEye](https://github.com/DarkSecDevelopers/HiddenEye)
@@ -107,7 +106,7 @@
 - [QR Code Jacking](https://github.com/cryptedwolf/ohmyqr)
 - [ShellPhish](https://github.com/An0nUD4Y/shellphish)
 - [BlackPhish](https://github.com/iinc0gnit0/BlackPhish)
-### Web Attack tools
+### Alat Serangan Web
 - [Web2Attack](https://github.com/santatic/web2attack)
 - Skipfish
 - [SubDomain Finder](https://github.com/aboul3la/Sublist3r)
@@ -173,7 +172,7 @@
 - [AllinOne SocialMedia Attack](https://github.com/Matrix07ksa/Brute_Force)
 - [Facebook Attack](https://github.com/Matrix07ksa/Brute_Force)
 - [Application Checker](https://github.com/jakuta-tech/underhanded)
-#### Android Hacking tools
+#### Alat Peretasan Android
 - [Keydroid](https://github.com/F4dl0/keydroid)
 - [MySMS](https://github.com/papusingh2sms/mysms)
 - [Lockphish (Grab target LOCK PIN)](https://github.com/JasonJerry/lockphish)
@@ -184,7 +183,7 @@
 - [EvilURL](https://github.com/UndeadSec/EvilURL)
 #### Email Verify tools
 - [Knockmail](https://github.com/4w4k3/KnockMail)
-#### Hash cracking tools
+#### Alat pemecah hash
 - [Hash Buster](https://github.com/s0md3v/Hash-Buster)
 #### Wifi Deauthenticate
 - [WifiJammer-NG](https://github.com/MisterBianco/wifijammer-ng)
@@ -194,12 +193,12 @@
 - [Find SocialMedia By UserName](https://github.com/xHak9x/finduser)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
 - [SocialScan | Username or Email](https://github.com/iojw/socialscan)
-#### Payload Injector
+#### Injektor Muatan
 - [Debinject](https://github.com/UndeadSec/Debinject)
 - [Pixload](https://github.com/chinarulezzz/pixload)
-#### Web crawling
+#### Perayapan web
 - [Gospider](https://github.com/jaeles-project/gospider)
-#### Mix tools
+#### Campur alat
 - Terminal Multiplexer
 - [Crivo](https://github.com/GMDSantana/crivo)
 
@@ -285,12 +284,12 @@ Enter the options and continue.
 - [ ] Add Tools for CTF
 - [ ] Want to do automatic 
 
-## Social Media :mailbox_with_no_mail:
-[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/_Zinzu07)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/Z4nzu/)
-##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
+## Media Sosial :mailbox_with_no_mail:
+[![INSTAGRAM] https://www.instagram.com/nhaol_putra/
+[![GitHub]() https://github.com/nhaolbyte
+##### Alat Favorit Anda tidak ada di hackingtool atau Saran Silakan [CLICK HERE]([https://forms.gle/b235JoCKyUq5iM3t8](https://www.instagram.com/nhaol_putra/))
 ![Z4nzu's github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-#### Don't Forgot to share with Your Friends 
-### The new Update get will soon stay updated
-#### Thank you..!!
+#### Jangan Lupa Share ke Teman-Teman Anda
+### Update terbaru akan segera kami update
+#### Terima kasih..!!
