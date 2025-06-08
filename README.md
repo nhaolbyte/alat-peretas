@@ -1,7 +1,8 @@
 ### Semua dalam Satu Alat Peretasan 🥇
-[DI KEMBANGKAN OLEH ] LOHAN PUTRA KAMAL
+
 
 ####Instal Kali Linux di Windows 10 Tanpa VirtualBox Panduan Pemasangan Dm Saya Di instagram nhaol_putra or use Docker
+[DEVELOPED BY] LOHAN PUTRA KAMAL
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
@@ -11,7 +12,6 @@
 ![](https://img.shields.io/github/last-commit/Z4nzu/hackingtool)
 [![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
-
 ## Pembaruan Tersedia V1.2.0 🚀 
 - [✔] Bug Instalasi Telah Diperbaiki
 - [x] Menambahkan Alat Baru 
