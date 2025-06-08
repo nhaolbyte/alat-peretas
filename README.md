@@ -10,17 +10,16 @@
 [![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
-## Update Available V1.2.0 🚀 
-- [✔] Installation Bug Fixed
-- [x] Added New Tools 
-    - [x] Reverse Engineering
-    - [x] RAT Tools
-    - [x] Web Crawling 
-    - [x] Payload Injector
-- [x] Multitor Tools update
-- [X] Added Tool in wifijamming
-- [X] Added Tool in steganography
-
+## Pembaruan Tersedia V1.2.0 🚀 
+- [✔] Bug Instalasi Telah Diperbaiki
+- [x] Menambahkan Alat Baru 
+- [x] Rekayasa Balik
+- [x] Alat RAT
+- [x] Perayapan Web 
+- [x] Payload Injector
+- [x] Pembaruan Alat Multitor
+- [X] Menambahkan Alat dalam wifijamming
+- [X] Menambahkan Alat dalam steganografi
 
 
 # Hackingtool Menu 🧰
