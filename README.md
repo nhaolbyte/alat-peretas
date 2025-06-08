@@ -1,7 +1,7 @@
-### Semua dalam Satu Alat Peretasan Untuk paduan pemasangan dm saya di https://www.instagram.com/nhaol_putra/🥇
+### Semua dalam Satu Alat Peretasan 🥇
 [DI KEMBANGKAN OLEH ] LOHAN PUTRA KAMAL
 
-####Instal Kali Linux di Windows 10 Tanpa VirtualBox panduan pemasangan dm saya di instagram nhaol_putra or use Docker
+####Instal Kali Linux di Windows 10 Tanpa VirtualBox Panduan Pemasangan Dm Saya Di instagram nhaol_putra or use Docker
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
