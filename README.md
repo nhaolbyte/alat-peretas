@@ -1,9 +1,8 @@
 ### Semua dalam Satu Alat Peretasan 🥇
 ####Instal Kali Linux di Windows 10 Tanpa VirtualBox Panduan Pemasangan Dm Saya Di instagram nhaol_putra or use Docker 
 
-
-kami tidak bertanggung jawab atas segala kerugian yang mungkin terjadi pada pihak-pihak yang menggunakan berita dan informasi dalam bentuk dan cara apapun
-
+Kami tidak bertanggung jawab terhadap kerugian yang mungkin terjadi dari informasi yang diambil dari peta ini.
+Atau segala bentuk penyalahgunaan 
 
 
 Semua upaya telah dilakukan untuk membuat peta kajian risiko ini akurat. Namun dengan segala keterbatasannya, ada kemungkinan terjadi kesalahan yang tidak disengaja, maka kami akan memperbaikinya ke depan.
