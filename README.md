@@ -2,11 +2,11 @@
 ####Instal Kali Linux di Windows 10 Tanpa VirtualBox Panduan Pemasangan Dm Saya Di instagram nhaol_putra or use Docker 
 
 
-#####kami tidak bertanggung jawab atas segala kerugian yang mungkin terjadi pada pihak-pihak yang menggunakan berita dan informasi dalam bentuk dan cara apapun
+kami tidak bertanggung jawab atas segala kerugian yang mungkin terjadi pada pihak-pihak yang menggunakan berita dan informasi dalam bentuk dan cara apapun
 
 
 
-####Semua upaya telah dilakukan untuk membuat peta kajian risiko ini akurat. Namun dengan segala keterbatasannya, ada kemungkinan terjadi kesalahan yang tidak disengaja, maka kami akan memperbaikinya ke depan.
+Semua upaya telah dilakukan untuk membuat peta kajian risiko ini akurat. Namun dengan segala keterbatasannya, ada kemungkinan terjadi kesalahan yang tidak disengaja, maka kami akan memperbaikinya ke depan.
 
 
 [DEVELOPED BY] LOHAN PUTRA KAMAL
